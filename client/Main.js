@@ -21,7 +21,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { useEffect, useState } from "react";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-//routes of
+//routes
 const Stack = createNativeStackNavigator();
 
 export default function Main() {
